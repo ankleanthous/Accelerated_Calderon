@@ -1,5 +1,5 @@
 # Accelerated Calderón preconditioning for Maxwell transmission problems
-by Kleanthous *et al.*
+by [Kleanthous *et al.*](https://arxiv.org/abs/2008.04772)
 
 **8 branch aggregate as described in Yang *et al.*, of maximum dimension 1cm. Some of the particles have been slightly moved to avoid intersecting monomers:** Yang, Ping, and K. N. Liou. "Single-scattering properties of complex ice crystals in terrestrial atmosphere." *Beitrage zur Physik der Atmosphare-Contributions to Atmospheric Physics* 71.2 (1998): 223-248.
 
